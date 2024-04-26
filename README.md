@@ -1,6 +1,6 @@
 Criando o Order Service
 
-Para rodar o projeto deve ter isntalado o php 8.2
+Para rodar o projeto deve ter instalado o php 8.2
 
 composer create-project laravel/laravel api-service
 
